@@ -19,3 +19,4 @@ pyplot.show()
 for a in range(1000):
 	pyplot.scatter(a,float(query('MEAS:1?')))
 	pyplot.pause(0.2)
+#remote comment
